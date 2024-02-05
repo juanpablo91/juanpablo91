@@ -1,4 +1,36 @@
-### Hi there 👋
+## Hi there! <I'm Pablo/> 👋
+---
+###About me
+- 📚 I’m currently Studying Computer Science at Universidad Nacional De Colombia
+- 🌱 I’m currently learning AI, Data science, and more
+- 🧱 I’m currently working on Asis as a Contributor 
+###About I do
+-I created Asis, as a basis for leading personal AI, as personal computing was at its birth 💻, focusing in
+be unique, autonomous connected, and Open source, to create standards and a solid and transparent development system in a community ❤
+
+If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **juanpablo91/juanpablo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
