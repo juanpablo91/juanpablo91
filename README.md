@@ -17,6 +17,10 @@ You can find me:
 
 - [Medium](https://medium.com/@jpablogonzalezrod)
 
+- [DevTo](https://dev.to/pablogonzalezrod)
+
+
+
 
 
 
