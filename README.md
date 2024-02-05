@@ -1,10 +1,10 @@
 ## Hi there! <I'm Pablo/> 👋
 ---
-###About me
+### About me
 - 📚 I’m currently Studying Computer Science at Universidad Nacional De Colombia
 - 🌱 I’m currently learning AI, Data science, and more
 - 🧱 I’m currently working on Asis as a Contributor 
-###About I do
+### About I do
 -I created Asis, as a basis for leading personal AI, as personal computing was at its birth 💻, focusing in
 be unique, autonomous connected, and Open source, to create standards and a solid and transparent development system in a community ❤
 
