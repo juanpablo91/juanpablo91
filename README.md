@@ -11,9 +11,11 @@ be unique, autonomous connected, and Open source, to create standards and a soli
 
 If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
 
-You can find me: 
-[Linkedin](https://www.example.com/my%20great%20page)
+You can find me:
 
+[Linkedin](https://www.example.com/my%20great%20page)
+https://medium.com/@jpablogonzalezrod
+[Medium](https://medium.com/@jpablogonzalezrod)
 
 
 
