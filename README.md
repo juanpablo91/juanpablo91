@@ -4,7 +4,7 @@
 ### About me
 - 📚 I’m currently Studying **Computer Science** at **Universidad Nacional De Colombia**
 - 🌱 I’m currently learning AI, Data science, and more
-- 🧱 I’m currently working on **Asis** as a Contributor
+- 🧱 I’m currently working on **Asis** as a hobbie proyect
 
 I created [ASIS](https://github.com/juanpablo91/Asis), as a basis for leading personal AI, as personal computing was at its birth 💻, focusing in
 be unique, autonomous connected, and Open source, to create standards and a solid and transparent development system in a community ❤
