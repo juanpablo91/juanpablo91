@@ -1,30 +1,23 @@
 # Hi there! <I'm Pablo/> 👋
 
-
 ### About me
-- 📚 I’m currently Studying **Computer Science** at **Universidad Nacional De Colombia**
-- 🌱 I’m currently learning AI, Data science, and more
-- 🧱 I’m currently working on **Asis** as a hobbie proyect
+- 📚 I’m currently studying **Computer Science** at the **National University of Colombia**
+- 🌱 I’m currently learning about AI, Data Science, and more
+- 🧱 I’m currently working on **Asis** as a hobby project
 
-I created [ASIS](https://github.com/juanpablo91/Asis), as a basis for leading personal AI, as personal computing was at its birth 💻, focusing in
-be unique, autonomous connected, and Open source, to create standards and a solid and transparent development system in a community ❤
+I'm creating [ASIS](https://github.com/juanpablo91/Asis) as a foundation for leading personal AI, similar to the early days of personal computing 💻. 
+My focus is on being unique, autonomous, connected, and open source, to establish standards and a solid, transparent development 
+system within a community ❤
 
-If my open source projects are useful for your product/company you can also sponsor my work on them. ☕
+If my open-source projects are interesting to you, you can also sponsor my work on them. ☕
 
 You can find me:
 
-- [Linkedin](https://www.example.com/my%20great%20page)
+- [LinkedIn](https://www.example.com/my%20great%20page)
 
 - [Medium](https://medium.com/@jpablogonzalezrod)
 
 - [DevTo](https://dev.to/pablogonzalezrod)
-
-
-
-
-
-
-
 
 
 
