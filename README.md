@@ -4,7 +4,8 @@
 - 📚 I’m currently studying **Computer Science** at the **National University of Colombia**
 - 🌱 I’m currently learning about AI, Data Science, and more
 - 🧱 I’m currently working on **Asis** as a hobby project
-
+  
+CTO ,Founder [ASISCO]( https://www.linkedin.com/company/asiscoai/)
 I'm creating [ASIS](https://github.com/juanpablo91/Asis) as a foundation for leading personal AI, similar to the early days of personal computing 💻. 
 My focus is on being unique, autonomous, connected, and open source, to establish standards and a solid, transparent development 
 system within a community ❤
